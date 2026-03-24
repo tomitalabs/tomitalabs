@@ -127,20 +127,18 @@ The network is my canvas. Every request is a gesture.
 
 ```
        o
-      /|\
-      / \   < ginga >
+      /|-
+      / .   < ginga >
      ~~~
 
-       O
-      \|
-      / \   < esquiva >
-     ~~~
-
-    \O/
+    
+    \/
      |    < au >
-    / \
+    / O\
    ~~~
 ```
+
+
 
 The body codes too. Capoeira as a practice of deception, rhythm, and freedom — embedded in every gesture of resistance.  
 Performance as interface between the human and the system.
